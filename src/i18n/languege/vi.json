@@ -1,0 +1,19 @@
+{
+  "hello": "Xin chào",
+  "welcome": "Chào mừng bạn đến với ứng dụng thời tiết",
+  "home": "Trang chủ",
+  "search": "Tìm kiếm",
+  "btn_search": "Tìm kiếm",
+  "text_search": "Nhập tên địa điểm ...",
+  "errortext_notnull": "Không được để trống trường này",
+  "errortext_stwrong": "Có gì đó sai ở đâu rồi",
+  "errortext_notfindcity": "Không tìm thấy thành phố",
+  "errortext_nodata": "Không có dữ liệu",
+  "rain": "Lượng mưa",
+  "clouds": "Mây che phú",
+  "atm": "Áp suất không khí",
+  "humidity": "Độ ẩm",
+  "w_speed": "Tốc độ gió",
+  "w_dir": "Hướng gió",
+  "appname": "Ứng dụng thời tiết"
+}

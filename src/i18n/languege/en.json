@@ -1,0 +1,19 @@
+{
+  "hello": "Hello2",
+  "welcome": "Welcome to my wheather app",
+  "home": "Home",
+  "search": "Search",
+  "btn_search": "Get Wheather",
+  "text_search": "Type location ...",
+  "errortext_notnull": "Input not null",
+  "errortext_stwrong": "Something went wrong",
+  "errortext_notfindcity": "Not found city",
+  "errortext_nodata": "No data",
+  "rain": "Rain",
+  "clouds": "Clouds",
+  "atm": "Atm pressure",
+  "humidity": "Humidity",
+  "w_speed": "Wind speed",
+  "w_dir": "Wind direction",
+  "appname": "Wheather app"
+}
