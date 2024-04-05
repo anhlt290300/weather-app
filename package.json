@@ -15,6 +15,7 @@
     "axios": "^1.6.8",
     "leaflet": "^1.9.4",
     "pinia": "^2.1.7",
+    "unplugin-icons": "^0.18.5",
     "vite-plugin-env-compatible": "^2.0.1",
     "vue": "^3.4.21",
     "vue-i18n": "^9.10.2",

@@ -1,5 +1,4 @@
 import { i18n } from '@/i18n/index.js'
-import { convertKtoC } from '@/ultis/weather'
 import axios from 'axios'
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
